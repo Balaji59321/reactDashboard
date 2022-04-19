@@ -11,6 +11,7 @@ const Projects = () => {
         display: "flex",
         flexDirection: "column",
       }}
+      px={{ xs: 0, md: 5 }}
       pt={5}
     >
       <Typography sx={{ fontSize: 18 }} color="text.secondary">
